@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 # Hey there, I'm Kartik 👋  
 
 🚀 **AI Engineer | Builder | Problem Solver**  
@@ -31,3 +32,32 @@ From training models to deploying applications, I enjoy building solutions that 
 
 ## ⭐ Highlight Project  
 My favorite pinned project is [**Celebrity Face Recognition**](https://github.com/ml-kartik/Celebrity-Face-Recognition-using-Machine-Learning.git) — a project that combines computer vision with practical AI applications.  
+-->
+
+![image](https://github.com/user-attachments/assets/your-banner-image)
+
+## What I'm working on
+- Building Machine Learning & Data Science projects from scratch
+- Learning Deep Learning, Neural Networks & AI systems
+- Improving problem solving with Python and real datasets
+- Growing my portfolio for internships & opportunities
+
+## My Work Ranked By Coolness:
+- **[Linear Regression From Scratch](https://github.com/ml-kartik/your-repo)**: Built linear regression using Python & NumPy without :contentReference[oaicite:0]{index=0}.
+- **[Data Preprocessing & Outlier Detection](https://github.com/ml-kartik/Machine-Learning-Preprocessing-Outlier-Detection)**: Real-world preprocessing techniques and outlier handling.
+- **[ML Mini Projects](https://github.com/ml-kartik)**: Small projects to practice core machine learning concepts.
+- **[Visualization Projects](https://github.com/ml-kartik)**: Data analysis and visual storytelling using Python libraries.
+- **[Upcoming Deep Learning Projects](https://github.com/ml-kartik)**: CNNs, RNNs, and advanced AI models coming soon.
+
+```python
+kartik@github
+------------------
+       OS  : Windows x64
+    Shell  : PowerShell
+ Terminal  : VS Code
+Dev Env    : Python + Jupyter
+Languages  : Python, SQL
+Libraries  : NumPy, Pandas, Matplotlib, Seaborn
+ML Stack   : :contentReference[oaicite:1]{index=1}, :contentReference[oaicite:2]{index=2}, :contentReference[oaicite:3]{index=3}
+Interests  : Machine Learning, Deep Learning, AI
+     Goal  : ML Engineer 🚀
