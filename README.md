@@ -58,6 +58,6 @@ kartik@github
 Dev Env    : Python + Jupyter
 Languages  : Python, SQL
 Libraries  : NumPy, Pandas, Matplotlib, Seaborn
-ML Stack   : :contentReference[oaicite:1]{index=1}, :contentReference[oaicite:2]{index=2}, :contentReference[oaicite:3]{index=3}
+ML Stack   : Python, NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch
 Interests  : Machine Learning, Deep Learning, AI
      Goal  : ML Engineer 🚀
