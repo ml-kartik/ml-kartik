@@ -34,7 +34,7 @@ From training models to deploying applications, I enjoy building solutions that 
 My favorite pinned project is [**Celebrity Face Recognition**](https://github.com/ml-kartik/Celebrity-Face-Recognition-using-Machine-Learning.git) — a project that combines computer vision with practical AI applications.  
 -->
 
-![image](https://github.com/user-attachments/assets/your-banner-image](https://github.com/ml-kartik/ml-kartik/blob/main/Banner.png)
+![Banner](https://raw.githubusercontent.com/ml-kartik/ml-kartik/main/Banner.png)
 
 ## What I'm working on
 - Building Machine Learning & Data Science projects from scratch
