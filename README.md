@@ -30,4 +30,4 @@ From training models to deploying applications, I enjoy building solutions that 
 - ⚡ Fun fact: **If I can imagine it, I’ll probably build it.**  
 
 ## ⭐ Highlight Project  
-My favorite pinned project is **Celebrity Face Recognition** — a project that combines computer vision with practical AI applications.  
+My favorite pinned project is [**Celebrity Face Recognition**](https://github.com/ml-kartik/Celebrity-Face-Recognition-using-Machine-Learning.git) — a project that combines computer vision with practical AI applications.  
