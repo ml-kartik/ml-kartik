@@ -61,3 +61,8 @@ Libraries  : NumPy, Pandas, Matplotlib, Seaborn
 ML Stack   : Python, NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch
 Interests  : Machine Learning, Deep Learning, AI
      Goal  : ML Engineer 🚀
+
+### Some ML Stack I work with:
+<img src="https://skillicons.dev/icons?i=jpython,tensorflow,pytorch,sklearn,opencv," />
+
+<br>
