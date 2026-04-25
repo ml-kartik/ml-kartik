@@ -66,9 +66,7 @@ Interests  : Machine Learning, Deep Learning, AI
 ### Some ML Stack I work with:
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv" />
 <br>
-### Some Analytics Tools I work with:
-<img src="https://skillicons.dev/icons?i=Tableau" />
-<br>
+
 <!--
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,sklearn,opencv,pandas,numpy,matplotlib,seaborn,jupyter,anaconda,git,github,vscode,docker,linux,bash,mysql,postgres,mongodb,sqlite,flask,fastapi,django,streamlit,aws,gcp,azure,cpp,c,java,r,redis" />
 -->
