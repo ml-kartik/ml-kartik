@@ -42,7 +42,7 @@ My favorite pinned project is [**Celebrity Face Recognition**](https://github.co
 - Improving problem solving with Python and real datasets
 - Growing my portfolio for internships & opportunities
 
-## My Work Ranked By Coolness:
+## Highlights of My Work:
 - **[Plants Diesease Classification (CNN)](https://github.com/ml-kartik/Plants-Diesease-Classification-Model.git)**: Built using Resnet18 Transfer Learning
 - **[Data Preprocessing & Outlier Detection](https://github.com/ml-kartik/Machine-Learning-Preprocessing-Outlier-Detection.git)**: Real-world preprocessing techniques and outlier handling.
 - **[ML Mini Projects](https://github.com/ml-kartik/Celebrity-Face-Recognition-using-Machine-Learning.git)**: Small projects to practice core machine learning concepts.
