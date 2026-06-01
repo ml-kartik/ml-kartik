@@ -47,7 +47,7 @@ My favorite pinned project is [**Celebrity Face Recognition**](https://github.co
 - **[Data Preprocessing & Outlier Detection](https://github.com/ml-kartik/Machine-Learning-Preprocessing-Outlier-Detection.git)**: Real-world preprocessing techniques and outlier handling.
 - **[ML Mini Projects](https://github.com/ml-kartik/Celebrity-Face-Recognition-using-Machine-Learning.git)**: Small projects to practice core machine learning concepts.
 - **[Cross Validation Model](https://github.com/ml-kartik/Cross-Validation-Score-Testing-of-Different-Models.git)**: Data analysis and visual storytelling using Python libraries.
-- **[Upcoming Deep Learning Projects](https://github.com/ml-kartik)**: CNNs, RNNs, and advanced AI models coming soon.
+- **[Upcoming Deep Learning Projects]([https://github.com/ml-kartik](https://github.com/ml-kartik/Plants-Diesease-Classification-Model.git))**: CNNs, RNNs, and advanced AI models coming soon.
 
 ```python
 kartik@github
